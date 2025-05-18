@@ -1,4 +1,4 @@
-## Hey, what's up? Yan here. I'm a Computer Science student at UFES 👋
+## Hey, what's up? Yan here! I'm a Computer Science student at UFES 👋
 
 - 🌱 I’m currently learning frontend and backend technologies, developing soft skills, and solving problems using Python language.
 - 👯 I’m looking to collaborate in an internship position and work in a team to solve problems.
