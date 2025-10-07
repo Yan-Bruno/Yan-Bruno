@@ -1,11 +1,11 @@
-## Hey, what's up? Yan here! I'm a Computer Science student at UFES 👋
+## Hey, what's up? Yan here! I'm a Computer Science student at UFES and Fullstack Developer 👋
 
-- 🌱 I’m currently learning frontend and backend technologies, developing soft skills, and solving problems using Python language.
-- 👯 I’m looking to collaborate in an internship position and work in a team to solve problems.
+- 🌱 I’m currently learning frontend and backend technologies, developing soft skills, and solving problems using technologies and tools.
+- 👨‍💻 I’m looking to collaborate in an internship position and work in a team to solve problems.
 - 🤔 I’m looking for help creating useful interfaces and improving the client UX/UI experience.
 - 📫 How to reach me: e-mail: valebrunoyan@gmail.com.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I'm passionate about the beach and the sea, and I'm also a succulent collector.
+- 🌊 Fun fact: I'm passionate about the beach. 
 
 <div style="display: inline_block"><br>
 
