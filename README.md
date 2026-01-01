@@ -17,7 +17,7 @@
   <img align="center" alt="Yan-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Yan-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C.svg">
+  <img align="center" alt="Yan-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg">
   
   </div>
   
