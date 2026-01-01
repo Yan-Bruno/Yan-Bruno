@@ -1,4 +1,4 @@
-## Hey, what's up? Yan here! I'm a Computer Science student at UFES & Fullstack Developer 👋
+## Yan here! I'm a Computer Science student at UFES & Fullstack Developer 👋
 
 - 🌱 I’m currently learning frontend and backend technologies, developing soft skills, and solving problems using technologies and tools.
 - 👨‍💻 I’m looking to collaborate in an internship position and work in a team to solve problems.
