@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Yan Bruno do Vale Gomes
+# Yan Bruno do Vale Gomes
 
 **`Desenvolvedor FullStack`**
 
