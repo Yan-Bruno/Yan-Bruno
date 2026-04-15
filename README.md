@@ -1,58 +1,140 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yan%20Bruno&fontSize=40&fontColor=ffffff"/>
+# 👩🏻‍💻 Yan Bruno do Vale Gomes
+
+**`Desenvolvedor FullStack`**
+
+Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando ciência da computação pela UFES. Sou apaixonado por tecnologia, prototipação e sou muito criativo. Acho incrível a ideia de podermos criar algo do zero por meio dos códigos e desenvolvimento.
+
+<p align="left">
+<a href="mailto:valebrunoyan@gmail.com">
+    <img 
+        alt="email" 
+        title="Me envie um email" 
+        src="https://custom-icon-badges.demolab.com/badge/email-contato-red?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+</a>
+
+<!-- LINKEDIN -->
+<a href="https://www.linkedin.com/in/yan-bruno-do-vale-gomes">
+    <img 
+        alt="linkedin" 
+        title="Meu LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+</a>
+
+<!-- PORTFÓLIO / SITE -->
+<a href="https://yan-bruno.github.io/portfolio/">
+    <img 
+        alt="portfolio" 
+        title="Meu portfólio" 
+        src="https://custom-icon-badges.demolab.com/badge/portfolio-site-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+    />
+</a>
 </p>
 
 ---
 
-## 👋 About Me
+### 🤖 Linguagens e Tecnologias
 
-💻 Computer Science student  
-🚀 Focused on Fullstack Development  
-📚 Currently studying React, Next.js and web architecture  
-⚡ Constantly evolving to become a high-level developer  
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
 
----
+### 📊 Estatísticas
 
-## 🛠️ Tech Stack
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,php,laravel" />
-</p>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/yan-bruno-do-vale-gomes-b4379b2ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  🚀 Building real projects and improving every day
 </p>
