@@ -64,7 +64,7 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
   />
 
   <img 
-    align="left" 
+    align="right" 
     height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Bruno&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20usadas%20por%20Yan%20Bruno%20do%20Vale%20Gomes" 
   />
