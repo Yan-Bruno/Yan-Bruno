@@ -90,15 +90,10 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ### ⚡ Curiosidade
 
-> Transformando café ☕ em código todos os dias.
+> Programador e Botafoguense.
 
 ---
 
-### 👀 Visitantes
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Yanbruno&color=blue" />
-</p>
 
 ---
 
