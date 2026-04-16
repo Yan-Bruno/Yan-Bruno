@@ -82,9 +82,9 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ### 📈 Foco atual
 
-- Estrutura de dados e algoritmos  
 - Desenvolvimento FullStack (React + Laravel)  
-- Boas práticas e arquitetura de software  
+- Boas práticas e arquitetura de software
+- Desenvolvimento com base em IA driven development
 
 ---
 
