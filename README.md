@@ -4,6 +4,10 @@
 
 Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando ciência da computação pela UFES. Sou apaixonado por tecnologia, prototipação e sou muito criativo. Acho incrível a ideia de podermos criar algo do zero por meio dos códigos e desenvolvimento.
 
+---
+
+### 🌐 Contato
+
 <p align="left">
 <a href="mailto:valebrunoyan@gmail.com">
     <img 
@@ -34,86 +38,17 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 <br/>
 <br/>
 
@@ -124,20 +59,49 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 <p>
   <img 
     align="left" 
-    alt="Estatísticas do GitHub de Yan Bruno do Vale Gomes" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Yanbruno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Yanbruno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas do GitHub de Yan Bruno do Vale Gomes" 
   />
 
   <img 
-      align="left" 
-      alt="Linguagens mais usadas por Yan Bruno do Vale Gomes" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanbruno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanbruno&theme=tokyonight&layout=compact&custom_title=Tecnologias mais usadas por Yan Bruno do Vale Gomes&langs_count=9" 
   />
 </p>
 
 <br clear="both"/>
 
 ---
+
+### 🔥 Projetos em destaque
+
+🚧 Em construção...
+
+---
+
+### 📈 Foco atual
+
+- Estrutura de dados e algoritmos  
+- Desenvolvimento FullStack (React + Laravel)  
+- Boas práticas e arquitetura de software  
+
+---
+
+### ⚡ Curiosidade
+
+> Transformando café ☕ em código todos os dias.
+
+---
+
+### 👀 Visitantes
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Yanbruno&color=blue" />
+</p>
+
+---
+
+### 🤝 Vamos nos conectar
+
+Se quiser trocar ideia sobre tecnologia, projetos ou oportunidades, me chama no LinkedIn ou manda um email 🚀
