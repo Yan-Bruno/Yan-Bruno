@@ -2,11 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando ciência da computação pela UFES. Sou apaixonado por tecnologia, prototipação e sou muito criativo. Acho incrível a ideia de podermos criar algo do zero por meio dos códigos e desenvolvimento.
-
----
-
-### 🌐 Contato
+Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando ciência da computação pela UFES. Sou apaixonado por tecnologia, prototipação e sou muito criativo. Acho incrível a ideia de podermos criar algo do zero por meio dos códigos e desenvolvimento.
 
 <p align="left">
 <a href="mailto:valebrunoyan@gmail.com">
@@ -20,7 +16,7 @@ Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro.
 <a href="https://www.linkedin.com/in/yan-bruno-do-vale-gomes">
     <img 
         alt="linkedin" 
-        title="Meu LinkedIn" 
+        title="LinkedIn de Yan Bruno do Vale Gomes" 
         src="https://custom-icon-badges.demolab.com/badge/linkedin-perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
@@ -28,7 +24,7 @@ Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro.
 <a href="https://yan-bruno.github.io/portfolio/">
     <img 
         alt="portfolio" 
-        title="Meu portfólio" 
+        title="Portfólio de Yan Bruno do Vale Gomes" 
         src="https://custom-icon-badges.demolab.com/badge/portfolio-site-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
     />
 </a>
@@ -36,17 +32,7 @@ Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro.
 
 ---
 
-### 🚀 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação (UFES)  
-- 💻 Desenvolvedor FullStack  
-- 🧠 Apaixonado por resolver problemas com código  
-- ⚡ Foco em projetos práticos e aprendizado constante  
-- 🎯 Buscando evoluir para nível profissional avançado  
-
----
-
-### 🛠️ Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -128,7 +114,6 @@ Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 <br/>
 <br/>
 
@@ -139,16 +124,16 @@ Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro.
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="180" 
+    alt="Estatísticas do GitHub de Yan Bruno do Vale Gomes" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Yanbruno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
       align="left" 
-      alt="Top Langs" 
-      height="180" 
+      alt="Linguagens mais usadas por Yan Bruno do Vale Gomes" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanbruno&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
@@ -156,35 +141,3 @@ Me chamo Yan Bruno do Vale Gomes, tenho 27 anos e sou natural do Rio de Janeiro.
 <br clear="both"/>
 
 ---
-
-### 🔥 Projetos em destaque
-
-🚧 Em construção — em breve adicionarei meus principais projetos aqui.
-
----
-
-### 📈 Foco atual
-
-- Estrutura de dados e algoritmos  
-- Desenvolvimento FullStack (React + Laravel)  
-- Boas práticas e arquitetura de software  
-
----
-
-### ⚡ Curiosidade
-
-> Transformando café ☕ em código todos os dias.
-
----
-
-### 👀 Visitantes
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Yanbruno&color=blue" alt="Profile views" />
-</p>
-
----
-
-### 🤝 Vamos nos conectar
-
-Se quiser trocar ideia sobre tecnologia, projetos ou oportunidades, me chama no LinkedIn ou manda um email 🚀
