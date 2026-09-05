@@ -1,12 +1,13 @@
 **`Desenvolvedor FullStack`**
 
-Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando ciência da computação pela UFES. Sou apaixonado por tecnologia, prototipação e sou muito criativo. Acho incrível a ideia de podermos criar algo do zero por meio dos códigos e desenvolvimento.
+Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação pela UFES. Sou apaixonado por tecnologia, prototipação e sou muito criativo. Acho incrível a ideia de podermos criar algo do zero por meio dos códigos e do desenvolvimento.
 
 ---
 
 ### 🌐 Contato
 
 <p align="left">
+
 <a href="mailto:valebrunoyan@gmail.com">
     <img 
         alt="email" 
@@ -30,6 +31,7 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
         src="https://custom-icon-badges.demolab.com/badge/portfolio-site-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
     />
 </a>
+
 </p>
 
 ---
@@ -53,28 +55,26 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ### 📊 Estatísticas
 
-<table align="center">
+<table>
   <tr>
     <td>
       <img 
-        width="300"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yan-Bruno&theme=tokyonight"
+        width="250"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yan-Bruno&amp;theme=tokyonight"
         alt="Linguagens por repositório"
       />
     </td>
-
     <td>
       <img 
-        width="300"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yan-Bruno&theme=tokyonight"
+        width="250"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yan-Bruno&amp;theme=tokyonight"
         alt="Linguagens mais utilizadas"
       />
     </td>
-
     <td>
       <img 
-        width="300"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yan-Bruno&theme=tokyonight"
+        width="250"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yan-Bruno&amp;theme=tokyonight"
         alt="Estatísticas do GitHub"
       />
     </td>
@@ -83,7 +83,6 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ---
 
----
 ### 🔥 Projetos em destaque
 
 🚧 Em construção...
@@ -92,20 +91,19 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ### 📈 Foco atual
 
-- Desenvolvimento FullStack (Node.js, React, Docker, PostgreSQL, Git e Github).
-- Boas práticas e arquitetura de software
-- Desenvolvimento com base em IA driven development, prompt engeneering.
+- Desenvolvimento Full Stack com Node.js, React, Docker e PostgreSQL.
+- Boas práticas e arquitetura de software.
+- Desenvolvimento orientado por IA.
+- Prompt Engineering.
 
 ---
 
 ### ⚡ Curiosidade
 
-> Programador e Botafoguense.
-
----
+> 💻 Programador e ⭐ Botafoguense.
 
 ---
 
 ### 🤝 Vamos nos conectar
 
-Se quiser trocar ideia sobre tecnologia, projetos ou oportunidades, me chama no LinkedIn ou manda um email 🚀
+Se quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades, me chama no LinkedIn ou manda um email 🚀
