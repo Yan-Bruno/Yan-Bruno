@@ -53,24 +53,19 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Yan-Bruno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatisticas%20do%20GitHub%20de%20Yan%20Bruno%20do%20Vale%20Gomes" 
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Yan-Bruno&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;locale=pt-br&amp;custom_title=Estatísticas%20do%20GitHub%20de%20Yan%20Bruno"
   />
 
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Bruno&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20usadas%20por%20Yan%20Bruno%20do%20Vale%20Gomes" 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Bruno&amp;theme=tokyonight&amp;layout=compact&amp;custom_title=Tecnologias%20mais%20utilizadas"
   />
 </p>
 
-<br clear="both"/>
-
 ---
-
 ### 🔥 Projetos em destaque
 
 🚧 Em construção...
@@ -79,9 +74,9 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 
 ### 📈 Foco atual
 
-- Desenvolvimento FullStack (React + Laravel)  
+- Desenvolvimento FullStack (Node.js, React, Docker, PostgreSQL, Git e Github).
 - Boas práticas e arquitetura de software
-- Desenvolvimento com base em IA driven development
+- Desenvolvimento com base em IA driven development, prompt engeneering.
 
 ---
 
