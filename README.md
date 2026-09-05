@@ -50,32 +50,25 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 <br/>
 
 ---
-
-### 📊 Estatísticas
-
 ### 📊 Estatísticas
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yan-Bruno&theme=tokyonight"
-    alt="Resumo das atividades do GitHub"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img
-    width="49%"
+  <img 
+    height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yan-Bruno&theme=tokyonight"
     alt="Repositórios por linguagem"
   />
 
-  <img
-    width="49%"
+  <img 
+    height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yan-Bruno&theme=tokyonight"
     alt="Linguagens mais utilizadas"
+  />
+
+  <img 
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yan-Bruno&theme=tokyonight"
+    alt="Estatísticas do GitHub"
   />
 </p>
 
