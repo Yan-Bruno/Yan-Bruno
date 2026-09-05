@@ -50,27 +50,38 @@ Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Jane
 <br/>
 
 ---
+
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yan-Bruno&theme=tokyonight"
-    alt="Repositórios por linguagem"
-  />
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        width="300"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yan-Bruno&theme=tokyonight"
+        alt="Linguagens por repositório"
+      />
+    </td>
 
-  <img 
-    height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yan-Bruno&theme=tokyonight"
-    alt="Linguagens mais utilizadas"
-  />
+    <td>
+      <img 
+        width="300"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yan-Bruno&theme=tokyonight"
+        alt="Linguagens mais utilizadas"
+      />
+    </td>
 
-  <img 
-    height="170"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yan-Bruno&theme=tokyonight"
-    alt="Estatísticas do GitHub"
-  />
-</p>
+    <td>
+      <img 
+        width="300"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yan-Bruno&theme=tokyonight"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 ### 🔥 Projetos em destaque
