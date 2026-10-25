@@ -1,6 +1,10 @@
 **`Desenvolvedor FullStack`**
 
-Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação pela UFES. Sou apaixonado por tecnologia, desenvolvimento de software e engenharia de software a atualmente invisto meu tempo em entender como a IA pode impulsionar meu desenvolvimento e qualidade de desenvolvimento, com técnicas e artíficios para usá-la com consciência, também sou apaixonado em prototipação e sou muito criativo. Acho incrível a ideia de podermos criar algo do zero por meio dos códigos e do desenvolvimento e ver algo que criamos do absoluto zero e de ideias únicas.
+Me chamo **Yan Bruno do Vale Gomes**, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, curso Ciência da Computação na Universidade Federal do Espírito Santo (UFES). Sou apaixonado por tecnologia, desenvolvimento e engenharia de software, com especial interesse em prototipação, criatividade e construção de soluções digitais.
+
+Atualmente, dedico parte do meu tempo a explorar como a inteligência artificial pode potencializar minhas habilidades e aprimorar a qualidade do desenvolvimento de software. Busco compreender técnicas, ferramentas e boas práticas para utilizá-la de maneira consciente, crítica e eficiente.
+
+O que mais me fascina na programação é a possibilidade de transformar ideias em realidade. A capacidade de construir algo do absoluto zero, partindo de uma ideia única até chegar a uma solução funcional, é uma das minhas maiores motivações na área da tecnologia.
 
 ---
 
